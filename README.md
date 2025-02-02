@@ -11,3 +11,7 @@ Github is used to display your repositories online for others to view, collabora
 ### Subheader
 
 Watch tutorial on youtube
+
+### Local development
+
+1. OPen index.html in new browser
